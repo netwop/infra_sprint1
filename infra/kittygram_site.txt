@@ -1,6 +1,6 @@
- IP: 158.160.219.216;
- name_taski: https://sashahost.hopto.org/;
- name_kittygram: https://snowy-winter.ru/;
- login: admin;
- password: admin;
- 
+IP: 158.160.219.216;
+name_taski: https://sashahost.hopto.org/;
+name_kittygram: https://snowy-winter.ru/;
+login: admin;
+password: admin;
+
